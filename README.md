@@ -23,3 +23,13 @@ This project simulates a radar system using an Arduino UNO, ultrasonic sensor (H
 
 ```text
 docs/circuit.png
+
+
+
+---
+
+## 👨‍💻 Author
+
+**Jalaluddin Khan**  
+BSCS Student | Pakistan 🇵🇰  
+GitHub: [@jalaluddin-fire](https://github.com/jalaluddin-fire)
