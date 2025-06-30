@@ -19,7 +19,7 @@ This project simulates a radar system using an Arduino UNO, ultrasonic sensor (H
 
 ## 🛠️ Circuit Diagram
 
-![Radar Circuit using Arduino UNO, HC-SR04, and Servo](docs/radar_diagram.png)
+![Radar Circuit](docs/radar_diagram.png)
 
 ---
 
