@@ -19,7 +19,7 @@ This project simulates a radar system using an Arduino UNO, ultrasonic sensor (H
 
 ## 🛠️ Circuit Diagram
 
-![Radar Circuit](docs/radar_circuit.png)
+![Radar Circuit using Arduino UNO, HC-SR04, and Servo](docs/radar_diagram.png)
 
 ---
 
@@ -31,11 +31,11 @@ The servo rotates from 0° to 180° while the ultrasonic sensor measures distanc
 
 ## 🧪 How to Run
 
-1. Open `src/radar_detection.ino` in Arduino IDE.
-2. Connect your components as shown in the diagram.
-3. Select your board and port.
-4. Upload and open Serial Monitor at **9600 baud**.
-
+1. Open `src/radar_detection.ino` in the Arduino IDE.
+2. Wire the components as shown in the diagram.
+3. Select the correct board (Arduino UNO) and COM port.
+4. Upload the code to the board.
+5. Open the Serial Monitor at `9600 baud` to view the output.
 ---
 
 ## 📦 Dependencies
