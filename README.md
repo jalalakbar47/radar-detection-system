@@ -16,7 +16,6 @@ This project simulates a radar system using an Arduino UNO, ultrasonic sensor (H
 
 ## 🔧 Circuit Diagram  
 ![Radar Circuit](docs/radar_circuit.png)
-
 ---
 
 ## 💡 Working Principle
