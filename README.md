@@ -33,11 +33,11 @@ This is a mini radar system built with Arduino UNO that uses an ultrasonic senso
 
 ---
 
-## 🛠️ Circuit Diagram
+### 🛠️ Circuit Diagram
 
-<img src="docs/radar_demo.gif" alt="Radar Detection Demo" width="500"/>
+Below is the wiring diagram for connecting Arduino UNO, ultrasonic sensor, and servo motor:
 
----
+![Circuit Diagram](docs/radar_circuit_diagram.jpg)
 
 ## 🧠 Working Principle
 
