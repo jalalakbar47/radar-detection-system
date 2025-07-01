@@ -1,4 +1,4 @@
-## Radar Detection System using Arduino
+# 🛰️ Arduino Radar Detection System with Ultrasonic Sensor and Servo Motor
 
 ## 📌 Project Overview
 
