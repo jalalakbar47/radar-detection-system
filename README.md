@@ -6,13 +6,13 @@ This is a mini radar system built with Arduino UNO that uses an ultrasonic senso
 
 ---
 
-## 📚 Table of Contents
-
+## 📑 Table of Contents
 - [Project Overview](#project-overview)
 - [Components Used](#components-used)
 - [Circuit Diagram](#circuit-diagram)
 - [Working Principle](#working-principle)
 - [How to Run](#how-to-run)
+- [Demo](#-demo)
 - [Features](#features)
 - [Dependencies](#dependencies)
 - [Author](#author)
@@ -42,6 +42,15 @@ This is a mini radar system built with Arduino UNO that uses an ultrasonic senso
 ## 🧠 Working Principle
 
 The servo rotates from 0° to 180° while the ultrasonic sensor measures distances at each angle. Data is sent to the serial monitor, simulating a basic radar scanner.
+
+---
+
+## 🎥 Demo
+
+Here's a live demonstration of the radar detection system in action:
+
+![Radar Demo](docs/radar_detection_demo.gif)
+
 
 ---
 
