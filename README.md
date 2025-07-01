@@ -1,4 +1,4 @@
-# 🛰️ Arduino Radar Detection System with Ultrasonic Sensor and Servo Motor
+## 🛰️ Arduino Radar Detection System with Ultrasonic Sensor and Servo Motor
 
 ## 📌 Project Overview
 
@@ -37,7 +37,7 @@ This is a mini radar system built with Arduino UNO that uses an ultrasonic senso
 
 Below is the wiring diagram for connecting Arduino UNO, ultrasonic sensor, and servo motor:
 
-![Circuit Diagram](docs/radar_circuit_diagram.jpg)
+![Circuit Diagram](docs/radar_circuit.jpg)
 
 ## 🧠 Working Principle
 
