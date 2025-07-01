@@ -35,7 +35,7 @@ This is a mini radar system built with Arduino UNO that uses an ultrasonic senso
 
 ## 🛠️ Circuit Diagram
 
-![Radar Detection System using Arduino](docs/radar_circuit.png)
+<img src="docs/radar_demo.gif" alt="Radar Detection Demo" width="500"/>
 
 ---
 
