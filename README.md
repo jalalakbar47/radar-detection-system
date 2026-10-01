@@ -1,5 +1,12 @@
 ## 🛰️ Arduino Radar Detection System with Ultrasonic Sensor and Servo Motor
 
+[![Primary language: C++](https://img.shields.io/github/languages/top/jalalakbar47/radar-detection-system?style=flat-square)](https://github.com/jalalakbar47/radar-detection-system/search?l=c%2B%2B)
+[![License: MIT](https://img.shields.io/github/license/jalalakbar47/radar-detection-system?style=flat-square)](https://github.com/jalalakbar47/radar-detection-system/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/jalalakbar47/radar-detection-system?style=flat-square)](https://github.com/jalalakbar47/radar-detection-system/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/jalalakbar47/radar-detection-system?style=flat-square)](https://github.com/jalalakbar47/radar-detection-system/network/members)
+[![Open issues](https://img.shields.io/github/issues/jalalakbar47/radar-detection-system?style=flat-square)](https://github.com/jalalakbar47/radar-detection-system/issues)
+[![Last commit](https://img.shields.io/github/last-commit/jalalakbar47/radar-detection-system?style=flat-square)](https://github.com/jalalakbar47/radar-detection-system/commits/main)
+
 ## 📌 Project Overview
 
 This is a mini radar system built with Arduino UNO that uses an ultrasonic sensor to scan the environment across a 180° arc using a servo motor. The system detects objects and displays their distance on the Serial Monitor — a great way to simulate radar-like behavior!
